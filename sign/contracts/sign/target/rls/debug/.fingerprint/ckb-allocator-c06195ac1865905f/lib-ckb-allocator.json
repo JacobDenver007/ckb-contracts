@@ -1,0 +1,1 @@
+{"rustc":4969374374717656167,"features":"[]","target":5189701933696402406,"profile":16668067249205866872,"path":13493687053478489611,"deps":[[12655337208663669468,"buddy_alloc",false,15273638408573997471]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ckb-allocator-c06195ac1865905f/dep-lib-ckb-allocator"}}],"rustflags":[],"metadata":11924108163564733168,"config":0}

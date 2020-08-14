@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/code/contracts/sign/target/riscv64imac-unknown-none-elf/debug/build/typenum-7b2e7710583f328a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/code/contracts/sign/target/riscv64imac-unknown-none-elf/debug/build/typenum-7b2e7710583f328a/out/op.rs

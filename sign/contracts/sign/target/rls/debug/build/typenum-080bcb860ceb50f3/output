@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/apple/rust_workspace/jacobdenver007/ckb-contracts/sign/contracts/sign/target/rls/debug/build/typenum-080bcb860ceb50f3/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/apple/rust_workspace/jacobdenver007/ckb-contracts/sign/contracts/sign/target/rls/debug/build/typenum-080bcb860ceb50f3/out/op.rs
